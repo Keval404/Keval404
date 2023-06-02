@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Keval Savla</h1>
-<h3 align="center">I am groot!</h3>
+<h3 align="center">Hello!</h3>
 
 - 🔭 I’m currently working on **something!✨**
 
